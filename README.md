@@ -1,5 +1,6 @@
 # Children-Book-Recommendation-system
 
+![image](https://user-images.githubusercontent.com/85642689/149713409-b92fa0c8-49f1-484e-930d-a29c266db5c2.png)
 
 
 Given the great number of available products and the competing nature of modern business, recommendation systems play a big part in revenue generation for companies. 35% of purchases on amazon and 75% of streaming on Netflix occur through recommendation process. When, it comes to reading books, given the limited time a person has, it is crucial to invest on the right books. When the end user of a book is a toddler or a kid, choosing the right book with the right message to help his/her development becomes even more important. More importantly, sometimes the content of a book may convey a wrong message. As an example, Dr. Seus books are popular and are known for being innovative, however, in recent years some of his books are removed from shelves because of racial content. Therefore, we built a book recommendation system for children. The data used is from UCSD Book Graph (google.com). The data is scraped from Googlereads during 2017. It contains 1) meta-data of more than 120,000 children’s books and 2) more than 800,000 book reviews. We do not have access to users’ information such as their reading history, therefore our system is a content-based recommendation system. 
